@@ -9,4 +9,5 @@
 *git log --oneline --graph
 *git show <hash>
 *git remote add origin https://github.com/Aldesigncode/Bootcamp-frontend-g14.git
-*git branch -M main
+*git branch -M main (cambia de nombre la rama ej. Master a Main)
+
