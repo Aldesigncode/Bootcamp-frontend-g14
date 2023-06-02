@@ -12,3 +12,4 @@
 *git branch -M main (cambia de nombre la rama ej. Master a Main)
 *git push
 *git status
+*git status
