@@ -12,3 +12,6 @@
 *git branch -M main (cambia de nombre la rama ej. Master a Main)
 *git push
 *git status
+*git pull (para actualizar de lo modificado en remoto Git hub al VS Code)
+*git commit -am "descripcion" (atajo para obviar el add y el commit y enviarlo directo a github)
+*git checkout -b <Mi copia de rama>
