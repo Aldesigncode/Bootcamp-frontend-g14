@@ -1,0 +1,35 @@
+body {
+  marging:0;
+  padding: 0;
+}
+
+.flex-container {
+  width: 600px;
+  height: 600px;
+  color: rgb(24, 15, 159);
+  background-color: beige;
+  display: flex;
+  /* flexdirection: column; */
+  justify-content: center;
+}
+
+.flex-item {
+    background-color: lightskyblue;
+    color: rgb(180, 66, 17);
+    font-size: 50px;
+}
+
+.flex-item:nth-child(odd)  {
+    background-color: aquamarine
+}
+
+.container {
+  border: 5px solid #elbee7;
+  background-color: 
+
+  grid-template-colums: repeat (4; 100px);
+  grid-template-rows: repeat (4; 50px);
+  grid-template-areas: "head dead dead head"
+
+
+}
